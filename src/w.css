@@ -1,0 +1,35 @@
+.App {
+    text-align: center;
+      }
+  
+Footer {
+    background-color: darkslategrey;
+    color:whitesmoke;
+    height: 50px;
+    padding-bottom: 0%;
+    text-align: center;
+    position:relative;
+    text-shadow: 0cm;
+}  
+
+header {
+    background-image: url(pic.jpeg);
+    height: 400px;
+    text-align: center;
+    image-orientation: from-image;
+        
+}
+h1 {
+    color:white;
+    padding: 170px
+}
+div {
+height: 115px;
+}
+h2{
+    padding: 45px;
+}
+h3 {
+    padding: 0%;
+    text-decoration-line: none;
+}
